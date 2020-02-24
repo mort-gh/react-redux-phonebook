@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-redux-phonebook/static/css/main.ceb94cf4.chunk.css",
+    "main.js": "/react-redux-phonebook/static/js/main.c5be868a.chunk.js",
+    "main.js.map": "/react-redux-phonebook/static/js/main.c5be868a.chunk.js.map",
+    "runtime-main.js": "/react-redux-phonebook/static/js/runtime-main.5470141d.js",
+    "runtime-main.js.map": "/react-redux-phonebook/static/js/runtime-main.5470141d.js.map",
+    "static/css/2.6a906a3b.chunk.css": "/react-redux-phonebook/static/css/2.6a906a3b.chunk.css",
+    "static/js/2.b700c918.chunk.js": "/react-redux-phonebook/static/js/2.b700c918.chunk.js",
+    "static/js/2.b700c918.chunk.js.map": "/react-redux-phonebook/static/js/2.b700c918.chunk.js.map",
+    "index.html": "/react-redux-phonebook/index.html",
+    "precache-manifest.4daec7744b7e5f54feea9112fc0ca7c0.js": "/react-redux-phonebook/precache-manifest.4daec7744b7e5f54feea9112fc0ca7c0.js",
+    "service-worker.js": "/react-redux-phonebook/service-worker.js",
+    "static/css/2.6a906a3b.chunk.css.map": "/react-redux-phonebook/static/css/2.6a906a3b.chunk.css.map",
+    "static/css/main.ceb94cf4.chunk.css.map": "/react-redux-phonebook/static/css/main.ceb94cf4.chunk.css.map",
+    "static/js/2.b700c918.chunk.js.LICENSE.txt": "/react-redux-phonebook/static/js/2.b700c918.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5470141d.js",
+    "static/css/2.6a906a3b.chunk.css",
+    "static/js/2.b700c918.chunk.js",
+    "static/css/main.ceb94cf4.chunk.css",
+    "static/js/main.c5be868a.chunk.js"
+  ]
+}

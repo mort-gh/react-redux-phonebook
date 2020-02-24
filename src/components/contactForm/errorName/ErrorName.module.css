@@ -1,0 +1,22 @@
+/* .block {
+    backgroundColor: "red",
+        width: 300,
+        height: 120,
+        position: "absolute",
+        top: 20,
+        right: 200,
+        textAlign: "center",
+        paddingTop: 60,
+        fontSize: 20
+} */
+
+.block {
+    background-color: #26a69a;
+    padding: 20px;
+    color: white;
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    text-align: center;
+    z-index: 10;
+}
